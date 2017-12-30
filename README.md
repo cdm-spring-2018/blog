@@ -1,1 +1,1 @@
-cdm-spring-2018.github.io/blog
+https://cdm-spring-2018.github.io/blog
